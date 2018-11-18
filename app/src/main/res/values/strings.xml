@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="category_lists">Lists</string>
+    <string name="welcome">welcome</string>
+    <string name="city_name">alexandria</string>
+    <string name="get_started">get started</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="beaches">Beaches</string>
+    <string name="museums">Museums</string>
+    <string name="events">Events</string>
+    
+    <!--restaurants names -->
+    
+    <string name="samakmak_name">Samakmak</string>
+    <string name="tejanos_name">Tejanos Mexican Grill</string>
+    <string name="balbaa_name">Balbaa</string>
+    <string name="sea_gull_name">Sea Gull Restaurant</string>
+    <string name="ole_name">Olé Café</string>
+    <string name="wahab_name">Abd El Wahab grills Village</string>
+    <string name="byblos_name">Byblos</string>
+    <string name="aroos_name">Aroos El Bahr Fish Restaurant</string>
+    <string name="pablo_name">Pablo Cafe and Restaurant</string>
+    <string name="delices_name">Delices</string>
+    <string name="fish_market_name">Fish Market</string>
+
+    <!--restaurants address-->
+
+    <string name="samakmak_address">Address: 60 Sidi Yakout, As Sayalah Gharb, Qesm Al Gomrok</string>
+    <string name="tejanos_address">Address: Estoret Louran Tower, 19 Al Akbal, San Stifano, Qism El-Montaza</string>
+    <string name="balbaa_address">Address: Abis, Qesm Al Amereyah</string>
+    <string name="sea_gull_address">Address: Al Meks, Qesm Ad Dekhilah</string>
+    <string name="ole_address">Address: Abu an Nawatir, Qism Sidi Gabir</string>
+    <string name="wahab_address">Address: Cairo Alex Desert Rd, Abis, Qism Moharram Bek</string>
+    <string name="byblos_address">Address: El-Gaish Rd, Alexandria</string>
+    <string name="aroos_address">Address: 11 Sidi Nasr El-Deen, As Sayalah Sharq, Qesm Al Gomrok</string>
+    <string name="pablo_address">Address: El-Gaish Rd, San Stifano, Qism El-Raml</string>
+    <string name="delices_address">Address: 46 Saad Zaghloul, Raml Station</string>
+    <string name="fish_matket_address">Address: El-Gaish Rd, Al Mazar, Qesm Al Gomrok</string>
+
+    <!--beaches names -->
+
+    <string name="tolip_beach_name">Tolip Beach</string>
+    <string name="paradise_name">Paradise Inn Beach</string>
+    <string name="montazah_name">Montazah Beach</string>
+    <string name="stanley_name">Stanley</string>
+    <string name="tolip_hotel_name">TOLIP Hotel</string>
+    <string name="four_name">Four Seasons Hotel</string>
+    <string name="helnan_name">Helnan Palestine Hotel</string>
+    <string name="hilton_name">Hilton Alexandria</string>
+
+    <!--beaches address -->
+
+    <string name="tolip_beach_address">Address: Gleem، El-Gaish Rd, Qism El-Raml</string>
+    <string name="paradies_address">Address: El-Shaheed youssef El-Sebaey Maamoura Beach</string>
+    <string name="motazah_address">Address: Al Mandarah Bahri, Qism El-Montaza</string>
+    <string name="stanley_address">Stanley is a neighborhood near the city centre of Alexandria</string>
+    <string name="tolip_hotel_address">Address: 252 El-Gaish Rd, Mustafa Kamel WA Bolkli</string>
+    <string name="four_address">Address: 399 El Geish Road</string>
+    <string name="helnan_address">Address: Montazah Park، El Saa Square, Al Mandarah Bahri, Qesm Al Montazah</string>
+    <string name="hilton_address">Address: 544 El-Gaish Rd, Sidi Beshr Bahri, Qism El-Montaza</string>
+
+    <!--museums names -->
+
+    <string name="alex_nat_name">Alexandria National Museum</string>
+    <string name="royal_name">Royal Jewelry Museum</string>
+    <string name="graeco_name">Graeco-Roman Museum</string>
+    <string name="cavafy_name">Cavafy Museum</string>
+    <string name="mahmoud_name">Mahmoud Said Museum</string>
+    <string name="alex_aquarium_name">Alexandria Aquarium</string>
+    <string name="roman_name">Roman Auditorium</string>
+
+    <!--museums address-->
+
+    <string name="alex_nat_address">Address: 131 El-Shaheed Galal El-Desouky, Bab Sharqi WA Wabour Al Meyah, Qesm Bab Sharqi</string>
+    <string name="royal_address">Address: 27 Ahmed Yehia Pasha</string>
+    <string name="graeco_address">Address: Al Mesallah Sharq, Qesm Al Attarin</string>
+    <string name="cavafy_address">Address: off Salah Moustafa street, at the end of Cavafy street. 2nd floor، Qesm Al Attarin</string>
+    <string name="mahmoud_address">Address: 6 Mohamed Pasha Said St.، GANAKLIS، Qism El-Raml</string>
+    <string name="alex_aquarium_address">Address: Qaitbay St.، EL ANFOUSHI، Qesm Al Gomrok</string>
+    <string name="roman_address">Address: Kom Ad Dakah Gharb, Qesm Al Attarin</string>
+
+    <!--events names -->
+
+    <string name="laseronics_name">Laseronics</string>
+    <string name="go_name">Go Events</string>
+    <string name="qig_name">QIG Egypt</string>
+    <string name="db_name">The Lounge DB</string>
+
+    <!--events address-->
+
+    <string name="laseronics_address">Address: El-Rashid St, Madinet Al Eelam, Al Agouzah</string>
+    <string name="go_address">Address: 487 Abou Quer, Fleming, Qism El-Raml</string>
+    <string name="qig_address">Address: 114 Sheraton Heliopolis, Beside Radisson Hotel -Cairo - Egypt., Cairo, Cairo Governorate</string>
+    <string name="db_address">Address: 17 Abd El-Moneim Hafez, Heliopolis, Cairo, Cairo Governorate</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

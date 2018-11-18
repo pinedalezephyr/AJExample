@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+
+    <color name="colorPrimaryDark">#2F1D1A</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="anotherBlack">#080F0F</color>
+
+    <color name="paleSpringBud">#E3D7CD</color>
+
+    <color name="border">#310b53</color>
+
+    <color name="borderBack">#806853</color>
+
+    <color name="generalBackground">#EAF2E3</color>
+
+    <color name="category_restaurants">#F25757</color>
+
+    <color name="category_beaches">#61E8E1</color>
+
+    <color name="category_museums">#D6F49D</color>
+
+    <color name="category_events">#FFC857</color>
+
+</resources>
